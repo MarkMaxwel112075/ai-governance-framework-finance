@@ -23,7 +23,9 @@ A worked example showing how the risk levels and controls apply to real finance/
 A phased 12-month implementation roadmap
 An honest limitations section, since this was built as a self-directed project, not inside a real organisation
 
+Read the full write-up
 
+📄  [Full framework document](./ai-governance-framework.pdf)
 
 About
 
