@@ -25,7 +25,7 @@ An honest limitations section, since this was built as a self-directed project, 
 
 Read the full write-up
 
-📄  [Full framework document](./ai-governance-framework.pdf)
+ 📄 [Full framework document](./AI_Governance_Framework_for_Finance_Teams.pdf)
 
 About
 
